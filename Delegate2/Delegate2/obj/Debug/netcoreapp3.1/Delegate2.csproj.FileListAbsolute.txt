@@ -1,0 +1,17 @@
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.exe
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.deps.json
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.json
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.dll
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.pdb
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfo.cs
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csproj.CopyComplete
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.dll
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.pdb
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Utils\obj\Debug\netcoreapp3.1\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+C:\Users\nargi\Desktop\Delegate_part 2\Delegate2\Utils\obj\Debug\netcoreapp3.1\Utils.pdb
